@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLaZMcXFUxnbne1C7ExzkefdEPJopPsUWQe8jdUR2JE2670urR8aiZXmo1EAj1L0k/fFaCiMcSYZfhYFJ9AqwA==",
+  "dgSpecHash": "eTYKHQMGU6bbr0UXFbD8WEbWMgDP5/ktBOxQQo6eZSTk8ZC0TMxHjbZRiiYM7tNOqRh3Sj0qBxRK46LBaCQyQQ==",
   "success": true,
-  "projectFilePath": "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+  "projectFilePath": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dhruv Rathi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dhruv Rathi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

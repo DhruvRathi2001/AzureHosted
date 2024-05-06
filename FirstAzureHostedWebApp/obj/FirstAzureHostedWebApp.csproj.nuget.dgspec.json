@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {}
+    "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {
+    "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+        "projectUniqueName": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
         "projectName": "FirstAzureHostedWebApp",
-        "projectPath": "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
+        "projectPath": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj",
         "packagesPath": "C:\\Users\\Dhruv Rathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\day_5\\FirstMVCApp\\FirstAzureHostedWebApp\\obj\\",
+        "outputPath": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dhruv Rathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
