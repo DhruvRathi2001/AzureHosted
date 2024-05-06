@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Training\\day_5\\Practice\\SampleMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1C146-3534-44B7-96C0-64C06739E526}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|c:\\training\\day_5\\practice\\samplemvc\\firstazurehostedwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBB1C146-3534-44B7-96C0-64C06739E526}|FirstAzureHostedWebApp\\FirstAzureHostedWebApp.csproj|solutionrelative:firstazurehostedwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAzureHostedWebApp\\appsettings.json",
+              "ToolTip": "C:\\Training\\day_5\\Practice\\SampleMVC\\FirstAzureHostedWebApp\\appsettings.json",
+              "RelativeToolTip": "FirstAzureHostedWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T06:47:16.559Z",
+              "EditorCaption": ""
             }
           ]
         }
